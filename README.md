@@ -116,19 +116,6 @@ The dataset comes from the **Maharashtra Real Estate Regulatory Authority (RERA)
 
 ---
 
-## 🗂️ Project Series
-
-This is **Project 4** of an ongoing Google Sheets data analysis series:
-
-| Project | Topic |
-|---|---|
-| Project 1 | *(earlier project)* |
-| Project 2 | *(earlier project)* |
-| Project 3 | *(earlier project)* |
-| **Project 4** | **Pune Real Estate Market Trends ← you are here** |
-
----
-
 ## 📜 Data Source
 
 **Maharashtra Real Estate Regulatory Authority (RERA)**
